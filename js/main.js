@@ -3,7 +3,7 @@
 const { createApp } = Vue
 
 const app = createApp({
-  data () {
+  data() {
     return {
       cards: [],
     }

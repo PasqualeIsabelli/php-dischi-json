@@ -31,7 +31,7 @@ $title = 'PHP Dischi json';
     <main>
       <div class="container py-5">
         <div class="row row-cols-4 justify-content-center">
-          <div class="card bg-card p-4 m-2"  v-for="card in cards">
+          <div class="card bg-card p-4 m-2" v-for="card in cards">
             <img :src="card.immagine" class="card-img-top" :alt="alt">
             <div class="card-body">
               <h5 class="card-title text-white fw-bold text-center">{{ card.title }}</h5>
