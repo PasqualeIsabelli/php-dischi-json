@@ -1,0 +1,38 @@
+[
+  {
+    "title": "New Jersey",
+    "band": "Bon Jovi",
+    "anno": 1988,
+    "immagine": "../img/bon_jovi.jpg"
+  },
+  {
+    "title": "Live at Wembley 86",
+    "band": "Queen",
+    "anno": 1992,
+    "immagine": "../img/queen.jpg"
+  },
+  {
+    "title": "Ten's Summoner's Tales",
+    "band": "Sting",
+    "anno": 1993,
+    "immagine": "../img/sting.jpg"
+  },
+  {
+    "title": "Steve Gadd Band",
+    "band": "Steve Gadd Band",
+    "anno": 2018,
+    "immagine": "../img/steve_gadd.jpg"
+  },
+  {
+    "title": "Brave new World",
+    "band": "Iron Maiden",
+    "anno": 2000,
+    "immagine": "../img/iron_maiden.jpg"
+  },
+  {
+    "title": "One more car, one more rider",
+    "band": "Ric Clapton",
+    "anno": 2002,
+    "immagine": "../img/eric_clapton.jpg"
+  }
+]
